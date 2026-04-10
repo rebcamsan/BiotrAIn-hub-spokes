@@ -30,9 +30,16 @@ Local instructors can deliver the theoretical content directly or use this recor
 
 [Train-the-trainer](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1be61dd7-b3dd-486f-8407-b3e2010e7dba)
 
+Detailed guide for instructors using the recording:
+https://docs.google.com/document/d/1x8Ybn6dTS60pZ6V4Bfx2Jh7GIgr65NQiKAToAsjEA1E/edit?tab=t.0 
+
 ## Materials and tutorials
 
-Module 5: Train the trainer: https://docs.google.com/presentation/d/1gc56hFMuPj4c0gkcYFOHQAqITdUTDZ30wa_8JbejFOw/edit?usp=sharing
+Module 5: Train the trainer: 
+Long version > https://docs.google.com/presentation/d/1gc56hFMuPj4c0gkcYFOHQAqITdUTDZ30wa_8JbejFOw/edit?usp=sharing
+
+Short version >
+https://docs.google.com/presentation/d/1GO-mdMP0VS9eAMO1ahKtFwbToYj9OWVZhg8u5dHUQyA/edit?slide=id.g3621a4f0733_0_190#slide=id.g3621a4f0733_0_190
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
